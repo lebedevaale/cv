@@ -1,2 +1,1 @@
-# cv
-CV for Andrey Lebedev
+[CV](https://github.com/lebedevaale/cv/wiki/CV)
